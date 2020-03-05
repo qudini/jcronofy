@@ -26,7 +26,7 @@
     </developers>
     <distributionManagement>
         <repository>
-            <id>bintray-qudini-jcronofy</id>
+            <id>bintray-qudini-qudiniapp-maven</id>
             <name>qudini-jcronofy</name>
             <url>https://api.bintray.com/maven/qudini/jcronofy/jcronofy/;publish=1</url>
         </repository>
